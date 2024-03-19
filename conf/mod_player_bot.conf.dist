@@ -1,1 +1,13 @@
 [worldserver]
+
+########################################
+# Player Bot configuration
+########################################
+#
+#    PlayerBot.Enable
+#        Description: Enable Player Bot
+#        Default:     0 - Disabled
+#                         1 - Enabled
+#
+
+PlayerBot.Enable = 1
